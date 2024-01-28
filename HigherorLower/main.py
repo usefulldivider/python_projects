@@ -7,10 +7,7 @@ print("press 1  for the first option and 2 for the second")
 
 i1=random.randint(0,len(data)-1)
 op1=data.pop(i1)
-
-game_over=False
-
-while not game_over:
+while True:
     if points >= 48:
         print(f"You have reached maxixum amount of  points attainable of {points} !!!")
         exit()
