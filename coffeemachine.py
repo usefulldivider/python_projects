@@ -30,10 +30,10 @@ resources = {
     "coffee": 100,
 }
 '''
-This code about simulating a coffee machine:
+This code is about simulating a coffee machine:
 it has 3 drink options
-fixed resoursec which it take into consideration before making a drink 
-collects money before making a drink in the form of coins
+fixed resources which it takes into consideration before making a drink 
+collects money before making a drink in the form of coins and gives appropriate change
 secret options:
                 report-> shows how much resources are left 
                 off-> switches off
