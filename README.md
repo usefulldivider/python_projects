@@ -6,3 +6,4 @@ some simple python codes which are too small for a own repository<br/>
 4)higherorlower <br />
 5)guessthenumber <br />
 6)coffee machine <br />
+7)BlackJack <br />
