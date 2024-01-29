@@ -1,5 +1,5 @@
 import random
-
+#nothing is done when a certain card runs out so that will lead to a error
 cards = {
     2: 4,
     3: 4,
