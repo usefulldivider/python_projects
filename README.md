@@ -7,3 +7,4 @@ some simple python codes which are too small for a own repository<br/>
 5)guessthenumber <br />
 6)coffee machine <br />
 7)BlackJack <br />
+8)quiz using oop
