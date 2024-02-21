@@ -11,3 +11,4 @@ some simple python codes which are too small for a own repository<br/>
 9)Damien hirst art (spot painting)<br />
 10)etch a sketch<br />
 11)teenage mutant ninja turtle race <br />
+12)snake game <br/>
